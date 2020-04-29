@@ -1,8 +1,0 @@
-Origin: ptgms' Repo
-Label: ptgms' Repo
-Suite: stable
-Version: 1.0
-Codename: ptgmsrepo
-Architectures: iphoneos-arm
-Components: main
-Description: A Repo for me to host my Apps on because I ain't paying 100€ anytime soon.

@@ -1,15 +1,15 @@
-Package: ptgms.fixl
-Version: 0.1
-Section: System
-Maintainer: ptgms <ptgms@gmail.com>
+Package: xyz.ptgms.fixl
+Version: 0.1.3
+Section: Apps
+Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//fixl/fixlapp.deb
-Size: 7479652
+Size: 7420044
 Installed-Size: 20000
-MD5sum: d7aa77faf4e6468573d25a56b8205407
+MD5sum: 02f8e45962f345e498bd30cdeacecd75
 Description: fixl app - an offline travel companion
 Name: fixl
-Author: ptgms <ptgms@gmail.com>
+Author: ptgms <hello@ptgms.xyz>
 Homepage: http://ptgms.github.io
 Depiction: https://ptgms.github.io/repo/Files/fixl/index.html
 

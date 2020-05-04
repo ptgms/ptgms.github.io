@@ -1,34 +1,45 @@
+Package: xyz.ptgms.BurnInTester
+Version: 0.1
+Section: Apps
+Maintainer: ptgms <hello@ptgms.xyz>
+Architecture: iphoneos-arm
+Filename: Files//burnin/burnIn.deb
+Size: 4819092
+Installed-Size: 25000
+MD5sum: c52e83271a0f8e9e3d2c43262b8fb385
+Description: BurnIn Tester - a burn-in Tester for iPhones with an OLED screen
+Name: BurnIn Tester
+Author: ptgms <hello@ptgms.xyz>
+Homepage: http://ptgms.github.io
+Depiction: https://ptgms.github.io/repo/Files/burnin/index.html
+
 Package: xyz.ptgms.excusemaker
 Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: ptgms <hello@ptgms.xyz>
-Installed-Size: 40000
-Filename: Files/excusemaker/excusemaker.deb
-Size: 7413440
-MD5sum: d7c1b7db415063399ab8ffc378e274c2
-SHA1: 341a68231395ebfd2c0ca4bda6a89f654413d652
-SHA256: 02143173f1283ea7415bce670fea3ef633970f4e48c25f988bf3644b18da0678
 Section: Apps
-Homepage: http://ptgms.github.io
+Maintainer: ptgms <hello@ptgms.xyz>
+Architecture: iphoneos-arm
+Filename: Files//excusemaker/excusemaker.deb
+Size: 7413440
+Installed-Size: 40000
+MD5sum: d7c1b7db415063399ab8ffc378e274c2
 Description: ExcuseMaker - a excuse generator for lazy people.
-Author: ptgms <hello@ptgms.xyz>
-Depiction: https://ptgms.github.io/repo/Files/excusemaker/index.html
 Name: ExcuseMaker
+Author: ptgms <hello@ptgms.xyz>
+Homepage: http://ptgms.github.io
+Depiction: https://ptgms.github.io/repo/Files/excusemaker/index.html
 
 Package: xyz.ptgms.fixl
 Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ptgms <hello@ptgms.xyz>
-Installed-Size: 40000
-Filename: Files/fixl/fixlapp.deb
-Size: 7473688
-MD5sum: c339ebc2ddbff771e936bdb8920d728f
-SHA1: ea5aea3680d65fb8094c3c78e81afa461e13b64f
-SHA256: e836ed0f2ed336e650ddd867dfa2b56e8b0eaa6a45629c9010ed700a071d4fea
 Section: Apps
-Homepage: http://ptgms.github.io
+Maintainer: ptgms <hello@ptgms.xyz>
+Architecture: iphoneos-arm
+Filename: Files//fixl/fixlapp.deb
+Size: 7473688
+Installed-Size: 40000
+MD5sum: c339ebc2ddbff771e936bdb8920d728f
 Description: fixl app - an offline travel companion
-Author: ptgms <hello@ptgms.xyz>
-Depiction: https://ptgms.github.io/repo/Files/fixl/index.html
 Name: fixl
+Author: ptgms <hello@ptgms.xyz>
+Homepage: http://ptgms.github.io
+Depiction: https://ptgms.github.io/repo/Files/fixl/index.html
 

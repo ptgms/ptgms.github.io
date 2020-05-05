@@ -1,12 +1,12 @@
 Package: xyz.ptgms.BurnInTester
-Version: 0.1
+Version: 0.1.2
 Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//burnin/burnIn.deb
-Size: 4819092
+Size: 7363344
 Installed-Size: 25000
-MD5sum: c52e83271a0f8e9e3d2c43262b8fb385
+MD5sum: 836949ac716447dbc05c42480dc95efb
 Description: BurnIn Tester - a burn-in Tester for iPhones with an OLED screen
 Name: BurnIn Tester
 Author: ptgms <hello@ptgms.xyz>
@@ -19,9 +19,9 @@ Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//excusemaker/excusemaker.deb
-Size: 7413440
+Size: 7413792
 Installed-Size: 40000
-MD5sum: d7c1b7db415063399ab8ffc378e274c2
+MD5sum: 330b62165fae2d92d9450c63d7b02795
 Description: ExcuseMaker - a excuse generator for lazy people.
 Name: ExcuseMaker
 Author: ptgms <hello@ptgms.xyz>
@@ -29,14 +29,14 @@ Homepage: http://ptgms.github.io
 Depiction: https://ptgms.github.io/repo/Files/excusemaker/index.html
 
 Package: xyz.ptgms.fixl
-Version: 0.1.4
+Version: 0.1.5
 Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//fixl/fixlapp.deb
-Size: 7473688
+Size: 7472432
 Installed-Size: 40000
-MD5sum: c339ebc2ddbff771e936bdb8920d728f
+MD5sum: 9459b93213560b010862dfb219f2629d
 Description: fixl app - an offline travel companion
 Name: fixl
 Author: ptgms <hello@ptgms.xyz>

@@ -14,14 +14,14 @@ Homepage: http://ptgms.github.io
 Depiction: https://ptgms.github.io/repo/Files/burnin/index.html
 
 Package: xyz.ptgms.excusemaker
-Version: 0.2.2
+Version: 1.2.3
 Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//excusemaker/excusemaker.deb
-Size: 7214412
+Size: 7235916
 Installed-Size: 40000
-MD5sum: f51db660609e6225131be16db32b73fb
+MD5sum: 5fd101f598edc76558fcfaf98b81e76a
 Description: ExcuseMaker - a excuse generator for lazy people.
 Name: ExcuseMaker
 Author: ptgms <hello@ptgms.xyz>

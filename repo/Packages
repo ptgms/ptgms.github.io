@@ -29,14 +29,14 @@ Homepage: http://ptgms.github.io
 Depiction: https://ptgms.github.io/repo/Files/excusemaker/index.html
 
 Package: xyz.ptgms.fixl
-Version: 0.1.5
+Version: 0.2.1
 Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//fixl/fixlapp.deb
-Size: 7472432
+Size: 15551132
 Installed-Size: 40000
-MD5sum: 9459b93213560b010862dfb219f2629d
+MD5sum: 99a8d40c265fe8a17e5013f6324a24f9
 Description: fixl app - an offline travel companion
 Name: fixl
 Author: ptgms <hello@ptgms.xyz>

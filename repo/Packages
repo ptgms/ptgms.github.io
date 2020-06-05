@@ -14,14 +14,14 @@ Homepage: http://ptgms.github.io
 Depiction: https://ptgms.github.io/repo/Files/burnin/index.html
 
 Package: xyz.ptgms.Khinsider-Ripper
-Version: 1.0.1
+Version: 1.1.1
 Section: Apps
 Maintainer: ptgms <hello@ptgms.xyz>
 Architecture: iphoneos-arm
 Filename: Files//khinsiderripper/khinrip.deb
-Size: 5623128
-Installed-Size: 40000
-MD5sum: 2ef49800baf65407083e17682ed2c2cc
+Size: 7571628
+Installed-Size: 50000
+MD5sum: 39a715fda0f365b769033e3c7daaa78c
 Description: Khinsider Ripper - A tool to rip your fav. Music
 Name: Khinsider Ripper
 Author: ptgms <hello@ptgms.xyz>
